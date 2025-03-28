@@ -1,2 +1,2 @@
 # practicals
-?
+study materials 
